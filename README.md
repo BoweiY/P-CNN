@@ -75,7 +75,7 @@ create a data folder under the repo,
 **DIOR**：Please download the [DIOR dataset](https://gcheng-nwpu.github.io/).
 After downloading the data, create softlinks in the folder data/.
 
-please put the four base classes [splits]() into DIOR ImageSets/Main dirs.
+please put the four base classes [splits](https://github.com/BoweiY/P-CNN/tree/main/split) into DIOR ImageSets/Main dirs.
 
 ### Training
 We used [ResNet101](https://www.dropbox.com/s/iev3tkbz5wyyuz9/resnet101_caffe.pth?dl=0) pretrained model on ImageNet in our experiments. Download it and put it into the data/pretrained_model/.
